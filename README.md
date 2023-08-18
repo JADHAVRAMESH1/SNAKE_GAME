@@ -1,1 +1,2 @@
-# SNAKE_GAME
+# Snake-Game
+Famous snake game
